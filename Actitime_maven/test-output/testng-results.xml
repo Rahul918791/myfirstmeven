@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[test running successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="105" started-at="2020-07-19T07:05:30 PDT" finished-at="2020-07-19T07:05:30 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="105" started-at="2020-07-19T07:05:30 PDT" finished-at="2020-07-19T07:05:30 PDT">
+      <class name="TaskTest.createTaskTest">
+        <test-method status="PASS" signature="run()[pri:0, instance:TaskTest.createTaskTest@67205a84]" name="run" duration-ms="15" started-at="2020-07-19T07:05:30 PDT" finished-at="2020-07-19T07:05:30 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[test running successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- TaskTest.createTaskTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
