@@ -10,6 +10,7 @@ public class createTaskTest {
 	public void run() {
 		
 		Reporter.log("test running successfully",true);
+		Reporter.log("test running successfully",true);
 		
 	}
 
