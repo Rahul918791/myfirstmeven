@@ -5,12 +5,12 @@
       <![CDATA[test running successfully]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="105" started-at="2020-07-19T07:05:30 PDT" finished-at="2020-07-19T07:05:30 PDT">
+  <suite name="Default suite" duration-ms="133" started-at="2020-07-20T00:02:00 PDT" finished-at="2020-07-20T00:02:00 PDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="105" started-at="2020-07-19T07:05:30 PDT" finished-at="2020-07-19T07:05:30 PDT">
+    <test name="Default test" duration-ms="133" started-at="2020-07-20T00:02:00 PDT" finished-at="2020-07-20T00:02:00 PDT">
       <class name="TaskTest.createTaskTest">
-        <test-method status="PASS" signature="run()[pri:0, instance:TaskTest.createTaskTest@67205a84]" name="run" duration-ms="15" started-at="2020-07-19T07:05:30 PDT" finished-at="2020-07-19T07:05:30 PDT">
+        <test-method status="PASS" signature="run()[pri:0, instance:TaskTest.createTaskTest@67205a84]" name="run" duration-ms="17" started-at="2020-07-20T00:02:00 PDT" finished-at="2020-07-20T00:02:00 PDT">
           <reporter-output>
             <line>
               <![CDATA[test running successfully]]>
